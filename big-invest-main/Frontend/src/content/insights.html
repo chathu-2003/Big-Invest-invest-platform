@@ -1,0 +1,59 @@
+<div class="view" data-view="insights" data-title="Insights — BIG INVEST" hidden>
+
+  <section class="page-hero on-dark" aria-labelledby="insights-title">
+    <div class="page-hero-glow" aria-hidden="true"></div>
+    <div class="wrap page-hero-inner">
+      <div class="page-hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep" aria-hidden="true">/</span><span aria-current="page">Insights</span></nav>
+        <span class="eyebrow">Insights</span>
+        <h1 id="insights-title" class="h1" tabindex="-1">Practical thinking on trade, logistics and growth</h1>
+        <p class="lead">Guides and perspectives for businesses buying, selling and investing across borders.</p>
+        <p class="tbc"><svg class="i" aria-hidden="true"><use href="#i-info"/></svg>Sample articles for the prototype — not published company content</p>
+      </div>
+    </div>
+    <div class="page-hero-stripe" aria-hidden="true"></div>
+    <div class="page-hero-media"><img data-img="sunset" alt="Harbour at sunrise with a container ship and city skyline" width="640" height="368"></div>
+  </section>
+
+  <section class="section bg-soft" aria-labelledby="insights-list-title">
+    <div class="wrap">
+      <h2 id="insights-list-title" class="sr-only">Articles</h2>
+      <div class="sec-row" style="align-items:center">
+        <div class="chips" role="group" aria-label="Filter by category" data-render="insight-filters"></div>
+        <form class="search" role="search" data-form="insight-search">
+          <label class="sr-only" for="insight-q">Search insights</label>
+          <svg class="i" aria-hidden="true"><use href="#i-search"/></svg>
+          <input class="input" id="insight-q" type="search" placeholder="Search articles" autocomplete="off">
+        </form>
+      </div>
+      <p class="sr-only" role="status" aria-live="polite" id="insight-count"></p>
+      <div class="mt-32" data-render="insight-featured"></div>
+      <div class="grid g3 mt-24" data-render="insight-grid"></div>
+    </div>
+  </section>
+
+  <section class="section-sm" id="newsletter" aria-labelledby="newsletter-title">
+    <div class="wrap">
+      <div class="newsletter-band on-dark">
+        <div class="split" style="align-items:center">
+          <div class="stack gap-12">
+            <span class="eyebrow">Newsletter</span>
+            <h2 id="newsletter-title" class="h2">Insights in your inbox</h2>
+            <p class="lead">Occasional, practical updates on global trade, logistics and investment. No spam.</p>
+          </div>
+          <form class="stack gap-12" novalidate data-form="newsletter">
+            <div class="newsletter">
+              <label class="sr-only" for="nl-email">Business email</label>
+              <input class="input" id="nl-email" name="email" type="email" placeholder="you@company.com" autocomplete="email" aria-describedby="nl-msg">
+              <button class="btn btn-primary" type="submit">Subscribe<svg class="i" aria-hidden="true"><use href="#i-send"/></svg></button>
+            </div>
+            <label class="check"><input type="checkbox" name="consent" aria-describedby="nl-msg"> I agree to receive emails from BIG INVEST and can unsubscribe at any time.</label>
+            <div id="nl-msg" aria-live="polite"></div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+

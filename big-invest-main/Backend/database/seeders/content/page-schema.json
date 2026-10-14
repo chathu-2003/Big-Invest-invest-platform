@@ -1,0 +1,1056 @@
+{
+  "home": [
+    {
+      "key": "text001",
+      "type": "text",
+      "label": "From Sri Lanka"
+    },
+    {
+      "key": "text002",
+      "type": "text",
+      "label": "to the World"
+    },
+    {
+      "key": "text003",
+      "type": "text",
+      "label": "Global"
+    },
+    {
+      "key": "text004",
+      "type": "text",
+      "label": " Trade & Investment Solutions"
+    },
+    {
+      "key": "text005",
+      "type": "text",
+      "label": "Your Trusted Partner "
+    },
+    {
+      "key": "text006",
+      "type": "text",
+      "label": "in Global Trade"
+    },
+    {
+      "key": "text007",
+      "type": "text",
+      "label": "We connect businesses, create opportunities and provide end-to-end trade an"
+    },
+    {
+      "key": "text008",
+      "type": "text",
+      "label": "Explore Our Services"
+    },
+    {
+      "key": "text009",
+      "type": "text",
+      "label": "Partner With Us"
+    },
+    {
+      "key": "text010",
+      "type": "text",
+      "label": "Our Services"
+    },
+    {
+      "key": "text011",
+      "type": "text",
+      "label": "Comprehensive Solutions for a Global Tomorrow"
+    },
+    {
+      "key": "text012",
+      "type": "text",
+      "label": "From trade and investment to logistics and beyond, we deliver value at ever"
+    },
+    {
+      "key": "text013",
+      "type": "text",
+      "label": "Global Reach"
+    },
+    {
+      "key": "text014",
+      "type": "text",
+      "label": "Access to international markets and opportunities."
+    },
+    {
+      "key": "text015",
+      "type": "text",
+      "label": "Trusted Partnerships"
+    },
+    {
+      "key": "text016",
+      "type": "text",
+      "label": "Strong relationships with global networks."
+    },
+    {
+      "key": "text017",
+      "type": "text",
+      "label": "Reliable Solutions"
+    },
+    {
+      "key": "text018",
+      "type": "text",
+      "label": "Tailored services for your business needs."
+    },
+    {
+      "key": "text019",
+      "type": "text",
+      "label": "Sustainable Growth"
+    },
+    {
+      "key": "text020",
+      "type": "text",
+      "label": "Building long-term value for a better tomorrow."
+    },
+    {
+      "key": "text021",
+      "type": "text",
+      "label": "Innovation & Expertise"
+    },
+    {
+      "key": "text022",
+      "type": "text",
+      "label": "Industry knowledge that drives success."
+    },
+    {
+      "key": "text023",
+      "type": "text",
+      "label": "Customer Focus"
+    },
+    {
+      "key": "text024",
+      "type": "text",
+      "label": "Your goals, our commitment."
+    },
+    {
+      "key": "text025",
+      "type": "text",
+      "label": "Our Industries"
+    },
+    {
+      "key": "text026",
+      "type": "text",
+      "label": "Key Industries We Serve"
+    },
+    {
+      "key": "text027",
+      "type": "text",
+      "label": "We operate across diverse industries, delivering high-quality products and "
+    },
+    {
+      "key": "text028",
+      "type": "text",
+      "label": "Explore All Industries"
+    },
+    {
+      "key": "text029",
+      "type": "text",
+      "label": "Why BIG INVEST"
+    },
+    {
+      "key": "text030",
+      "type": "text",
+      "label": "More Than Trade "
+    },
+    {
+      "key": "text031",
+      "type": "text",
+      "label": "We Create Opportunities"
+    },
+    {
+      "key": "text032",
+      "type": "text",
+      "label": "With a strong global network, industry expertise and a commitment to excell"
+    },
+    {
+      "key": "text033",
+      "type": "text",
+      "label": "Learn More"
+    },
+    {
+      "key": "text034",
+      "type": "text",
+      "label": "*Figures from the homepage concept — to be verified by BIG INVEST"
+    },
+    {
+      "key": "text035",
+      "type": "text",
+      "label": "Global Trade. "
+    },
+    {
+      "key": "text036",
+      "type": "text",
+      "label": "Local Commitment."
+    },
+    {
+      "key": "text037",
+      "type": "text",
+      "label": "From Sri Lanka to global markets, we deliver value, trust and progress."
+    },
+    {
+      "key": "text038",
+      "type": "text",
+      "label": "Our Global Network"
+    },
+    {
+      "key": "image039",
+      "type": "image",
+      "label": "Section image: hero"
+    },
+    {
+      "key": "image040",
+      "type": "image",
+      "label": "Section image: coast"
+    },
+    {
+      "key": "link041",
+      "type": "link",
+      "label": "Destination: /services"
+    },
+    {
+      "key": "link042",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link043",
+      "type": "link",
+      "label": "Destination: /contact/partnership"
+    },
+    {
+      "key": "link044",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link045",
+      "type": "link",
+      "label": "Destination: #i-globe"
+    },
+    {
+      "key": "link046",
+      "type": "link",
+      "label": "Destination: #i-handshake"
+    },
+    {
+      "key": "link047",
+      "type": "link",
+      "label": "Destination: #i-shield-check"
+    },
+    {
+      "key": "link048",
+      "type": "link",
+      "label": "Destination: #i-chart-column-increasing"
+    },
+    {
+      "key": "link049",
+      "type": "link",
+      "label": "Destination: #i-lightbulb"
+    },
+    {
+      "key": "link050",
+      "type": "link",
+      "label": "Destination: #i-users"
+    },
+    {
+      "key": "link051",
+      "type": "link",
+      "label": "Destination: /industries"
+    },
+    {
+      "key": "link052",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link053",
+      "type": "link",
+      "label": "Destination: /about"
+    },
+    {
+      "key": "link054",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link055",
+      "type": "link",
+      "label": "Destination: /global-network"
+    },
+    {
+      "key": "link056",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    }
+  ],
+  "about": [
+    {
+      "key": "text001",
+      "type": "text",
+      "label": "Home"
+    },
+    {
+      "key": "text002",
+      "type": "text",
+      "label": "/"
+    },
+    {
+      "key": "text003",
+      "type": "text",
+      "label": "About Us"
+    },
+    {
+      "key": "text004",
+      "type": "text",
+      "label": "About BIG INVEST"
+    },
+    {
+      "key": "text005",
+      "type": "text",
+      "label": "Connecting Sri Lankan business with the world"
+    },
+    {
+      "key": "text006",
+      "type": "text",
+      "label": "An international business solutions company linking Sri Lankan businesses w"
+    },
+    {
+      "key": "text007",
+      "type": "text",
+      "label": "Partner With Us"
+    },
+    {
+      "key": "text008",
+      "type": "text",
+      "label": "Our Services"
+    },
+    {
+      "key": "text009",
+      "type": "text",
+      "label": "From Sri Lanka to the World"
+    },
+    {
+      "key": "text010",
+      "type": "text",
+      "label": "Global Trade | Business Solutions"
+    },
+    {
+      "key": "text011",
+      "type": "text",
+      "label": "Who We Are"
+    },
+    {
+      "key": "text012",
+      "type": "text",
+      "label": "One partner for every stage of cross-border business"
+    },
+    {
+      "key": "text013",
+      "type": "text",
+      "label": "BIG INVEST brings trade, sourcing, logistics coordination and investment su"
+    },
+    {
+      "key": "text014",
+      "type": "text",
+      "label": "We work alongside manufacturers, distributors, investors and service provid"
+    },
+    {
+      "key": "text015",
+      "type": "text",
+      "label": "Trade and investment solutions under one roof"
+    },
+    {
+      "key": "text016",
+      "type": "text",
+      "label": "Focus across six key industries"
+    },
+    {
+      "key": "text017",
+      "type": "text",
+      "label": "Rooted in Sri Lanka, working with partners worldwide"
+    },
+    {
+      "key": "text018",
+      "type": "text",
+      "label": "Company history, registration details and milestones — to be supplied by BI"
+    },
+    {
+      "key": "text019",
+      "type": "text",
+      "label": "Vision & Mission"
+    },
+    {
+      "key": "text020",
+      "type": "text",
+      "label": "Where we are going, and how we get there"
+    },
+    {
+      "key": "text021",
+      "type": "text",
+      "label": "Proposed wording — for client approval"
+    },
+    {
+      "key": "text022",
+      "type": "text",
+      "label": "Our Vision"
+    },
+    {
+      "key": "text023",
+      "type": "text",
+      "label": "To be Sri Lanka's most trusted bridge to global trade and investment."
+    },
+    {
+      "key": "text024",
+      "type": "text",
+      "label": "Our Mission"
+    },
+    {
+      "key": "text025",
+      "type": "text",
+      "label": "To connect businesses with the right markets, partners and products through"
+    },
+    {
+      "key": "text026",
+      "type": "text",
+      "label": "Core Objectives"
+    },
+    {
+      "key": "text027",
+      "type": "text",
+      "label": "What we set out to achieve for every client"
+    },
+    {
+      "key": "text028",
+      "type": "text",
+      "label": "01"
+    },
+    {
+      "key": "text029",
+      "type": "text",
+      "label": "Open doors to new markets"
+    },
+    {
+      "key": "text030",
+      "type": "text",
+      "label": "Help Sri Lankan businesses reach buyers and partners abroad with confidence"
+    },
+    {
+      "key": "text031",
+      "type": "text",
+      "label": "02"
+    },
+    {
+      "key": "text032",
+      "type": "text",
+      "label": "Build lasting partnerships"
+    },
+    {
+      "key": "text033",
+      "type": "text",
+      "label": "Create relationships that lead to repeat trade, not one-off transactions."
+    },
+    {
+      "key": "text034",
+      "type": "text",
+      "label": "03"
+    },
+    {
+      "key": "text035",
+      "type": "text",
+      "label": "Deliver dependable solutions"
+    },
+    {
+      "key": "text036",
+      "type": "text",
+      "label": "Coordinate each step carefully so commitments are met on time."
+    },
+    {
+      "key": "text037",
+      "type": "text",
+      "label": "04"
+    },
+    {
+      "key": "text038",
+      "type": "text",
+      "label": "Grow responsibly"
+    },
+    {
+      "key": "text039",
+      "type": "text",
+      "label": "Pursue long-term value for clients, partners and communities."
+    },
+    {
+      "key": "text040",
+      "type": "text",
+      "label": "Portrait to be supplied"
+    },
+    {
+      "key": "text041",
+      "type": "text",
+      "label": "Leadership Message"
+    },
+    {
+      "key": "text042",
+      "type": "text",
+      "label": "A word from our leadership"
+    },
+    {
+      "key": "text043",
+      "type": "text",
+      "label": "[Chairman's or Managing Director's message — around 100 words on BIG INVEST"
+    },
+    {
+      "key": "text044",
+      "type": "text",
+      "label": "[Full name]"
+    },
+    {
+      "key": "text045",
+      "type": "text",
+      "label": "[Chairman / Managing Director]"
+    },
+    {
+      "key": "text046",
+      "type": "text",
+      "label": ", BIG INVEST (Pvt) Ltd"
+    },
+    {
+      "key": "text047",
+      "type": "text",
+      "label": "Our Values"
+    },
+    {
+      "key": "text048",
+      "type": "text",
+      "label": "The principles behind every engagement"
+    },
+    {
+      "key": "text049",
+      "type": "text",
+      "label": "How we work matters as much as what we deliver."
+    },
+    {
+      "key": "text050",
+      "type": "text",
+      "label": "Integrity"
+    },
+    {
+      "key": "text051",
+      "type": "text",
+      "label": "Honest advice and transparent dealings, even when the answer is not what wa"
+    },
+    {
+      "key": "text052",
+      "type": "text",
+      "label": "Partnership"
+    },
+    {
+      "key": "text053",
+      "type": "text",
+      "label": "We succeed when our clients and partners succeed — and we act that way."
+    },
+    {
+      "key": "text054",
+      "type": "text",
+      "label": "Reliability"
+    },
+    {
+      "key": "text055",
+      "type": "text",
+      "label": "Clear commitments, carefully coordinated and consistently followed through."
+    },
+    {
+      "key": "text056",
+      "type": "text",
+      "label": "Excellence"
+    },
+    {
+      "key": "text057",
+      "type": "text",
+      "label": "High standards in preparation, communication and delivery."
+    },
+    {
+      "key": "text058",
+      "type": "text",
+      "label": "Sustainability"
+    },
+    {
+      "key": "text059",
+      "type": "text",
+      "label": "Decisions made with the long term — and the wider community — in mind."
+    },
+    {
+      "key": "text060",
+      "type": "text",
+      "label": "Customer Focus"
+    },
+    {
+      "key": "text061",
+      "type": "text",
+      "label": "Your goals shape the plan; we adapt to your business, not the other way rou"
+    },
+    {
+      "key": "text062",
+      "type": "text",
+      "label": "One accountable team from first enquiry to final delivery"
+    },
+    {
+      "key": "text063",
+      "type": "text",
+      "label": "Why Choose BIG INVEST"
+    },
+    {
+      "key": "text064",
+      "type": "text",
+      "label": "Why businesses work with us"
+    },
+    {
+      "key": "text065",
+      "type": "text",
+      "label": "One accountable partner"
+    },
+    {
+      "key": "text066",
+      "type": "text",
+      "label": "Trade, sourcing, logistics and investment support coordinated by a single t"
+    },
+    {
+      "key": "text067",
+      "type": "text",
+      "label": "Local roots, global outlook"
+    },
+    {
+      "key": "text068",
+      "type": "text",
+      "label": "Based in Sri Lanka and focused on international markets."
+    },
+    {
+      "key": "text069",
+      "type": "text",
+      "label": "Multi-industry perspective"
+    },
+    {
+      "key": "text070",
+      "type": "text",
+      "label": "Coverage across healthcare, consumer, commodity and industrial sectors."
+    },
+    {
+      "key": "text071",
+      "type": "text",
+      "label": "Transparent ways of working"
+    },
+    {
+      "key": "text072",
+      "type": "text",
+      "label": "Clear scopes, regular updates and straight answers."
+    },
+    {
+      "key": "text073",
+      "type": "text",
+      "label": "Built for the long term"
+    },
+    {
+      "key": "text074",
+      "type": "text",
+      "label": "Relationships measured in years, not single transactions."
+    },
+    {
+      "key": "text075",
+      "type": "text",
+      "label": "Global Business Capabilities"
+    },
+    {
+      "key": "text076",
+      "type": "text",
+      "label": "What we can coordinate on your behalf"
+    },
+    {
+      "key": "text077",
+      "type": "text",
+      "label": "See all services"
+    },
+    {
+      "key": "text078",
+      "type": "text",
+      "label": "Sourcing & procurement"
+    },
+    {
+      "key": "text079",
+      "type": "text",
+      "label": "Supplier search, samples, quality checks and negotiation support."
+    },
+    {
+      "key": "text080",
+      "type": "text",
+      "label": "International Sourcing"
+    },
+    {
+      "key": "text081",
+      "type": "text",
+      "label": "Import & export coordination"
+    },
+    {
+      "key": "text082",
+      "type": "text",
+      "label": "Documentation guidance and shipment follow-through."
+    },
+    {
+      "key": "text083",
+      "type": "text",
+      "label": "Import & Export"
+    },
+    {
+      "key": "text084",
+      "type": "text",
+      "label": "Logistics coordination"
+    },
+    {
+      "key": "text085",
+      "type": "text",
+      "label": "Mode and route planning with trusted freight partners."
+    },
+    {
+      "key": "text086",
+      "type": "text",
+      "label": "Logistics & Supply Chain"
+    },
+    {
+      "key": "text087",
+      "type": "text",
+      "label": "Market research & entry"
+    },
+    {
+      "key": "text088",
+      "type": "text",
+      "label": "Demand assessment, entry routes and launch planning."
+    },
+    {
+      "key": "text089",
+      "type": "text",
+      "label": "Market Entry"
+    },
+    {
+      "key": "text090",
+      "type": "text",
+      "label": "Partner identification"
+    },
+    {
+      "key": "text091",
+      "type": "text",
+      "label": "Qualified introductions to distributors, manufacturers and agents."
+    },
+    {
+      "key": "text092",
+      "type": "text",
+      "label": "Strategic Partnerships"
+    },
+    {
+      "key": "text093",
+      "type": "text",
+      "label": "Investment facilitation"
+    },
+    {
+      "key": "text094",
+      "type": "text",
+      "label": "Opportunity screening, introductions and due-diligence coordination."
+    },
+    {
+      "key": "text095",
+      "type": "text",
+      "label": "Investment Opportunities"
+    },
+    {
+      "key": "text096",
+      "type": "text",
+      "label": "Figures from the homepage concept — to be verified by BIG INVEST"
+    },
+    {
+      "key": "text097",
+      "type": "text",
+      "label": "Partner With Us"
+    },
+    {
+      "key": "text098",
+      "type": "text",
+      "label": "Let's grow across borders, together."
+    },
+    {
+      "key": "text099",
+      "type": "text",
+      "label": "Tell us about your market, product or investment goal and we'll show you ho"
+    },
+    {
+      "key": "text100",
+      "type": "text",
+      "label": "Partner With Us"
+    },
+    {
+      "key": "text101",
+      "type": "text",
+      "label": "Explore Services"
+    },
+    {
+      "key": "image102",
+      "type": "image",
+      "label": "Section image: skyline"
+    },
+    {
+      "key": "image103",
+      "type": "image",
+      "label": "Section image: ship"
+    },
+    {
+      "key": "image104",
+      "type": "image",
+      "label": "Section image: mapDark"
+    },
+    {
+      "key": "image105",
+      "type": "image",
+      "label": "Section image: dock"
+    },
+    {
+      "key": "link106",
+      "type": "link",
+      "label": "Destination: /"
+    },
+    {
+      "key": "link107",
+      "type": "link",
+      "label": "Destination: /contact/partnership"
+    },
+    {
+      "key": "link108",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link109",
+      "type": "link",
+      "label": "Destination: /services"
+    },
+    {
+      "key": "link110",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link111",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link112",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link113",
+      "type": "link",
+      "label": "Destination: #i-info"
+    },
+    {
+      "key": "link114",
+      "type": "link",
+      "label": "Destination: #i-info"
+    },
+    {
+      "key": "link115",
+      "type": "link",
+      "label": "Destination: #i-eye"
+    },
+    {
+      "key": "link116",
+      "type": "link",
+      "label": "Destination: #i-target"
+    },
+    {
+      "key": "link117",
+      "type": "link",
+      "label": "Destination: #i-user"
+    },
+    {
+      "key": "link118",
+      "type": "link",
+      "label": "Destination: #i-quote"
+    },
+    {
+      "key": "link119",
+      "type": "link",
+      "label": "Destination: #i-scale"
+    },
+    {
+      "key": "link120",
+      "type": "link",
+      "label": "Destination: #i-handshake"
+    },
+    {
+      "key": "link121",
+      "type": "link",
+      "label": "Destination: #i-shield-check"
+    },
+    {
+      "key": "link122",
+      "type": "link",
+      "label": "Destination: #i-award"
+    },
+    {
+      "key": "link123",
+      "type": "link",
+      "label": "Destination: #i-sprout"
+    },
+    {
+      "key": "link124",
+      "type": "link",
+      "label": "Destination: #i-users"
+    },
+    {
+      "key": "link125",
+      "type": "link",
+      "label": "Destination: #i-route"
+    },
+    {
+      "key": "link126",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link127",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link128",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link129",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link130",
+      "type": "link",
+      "label": "Destination: #i-check"
+    },
+    {
+      "key": "link131",
+      "type": "link",
+      "label": "Destination: /services"
+    },
+    {
+      "key": "link132",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link133",
+      "type": "link",
+      "label": "Destination: /services/sourcing"
+    },
+    {
+      "key": "link134",
+      "type": "link",
+      "label": "Destination: #i-search-check"
+    },
+    {
+      "key": "link135",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link136",
+      "type": "link",
+      "label": "Destination: /services/import-export"
+    },
+    {
+      "key": "link137",
+      "type": "link",
+      "label": "Destination: #i-container"
+    },
+    {
+      "key": "link138",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link139",
+      "type": "link",
+      "label": "Destination: /services/logistics"
+    },
+    {
+      "key": "link140",
+      "type": "link",
+      "label": "Destination: #i-truck"
+    },
+    {
+      "key": "link141",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link142",
+      "type": "link",
+      "label": "Destination: /services/market-entry"
+    },
+    {
+      "key": "link143",
+      "type": "link",
+      "label": "Destination: #i-compass"
+    },
+    {
+      "key": "link144",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link145",
+      "type": "link",
+      "label": "Destination: /services/partnerships"
+    },
+    {
+      "key": "link146",
+      "type": "link",
+      "label": "Destination: #i-network"
+    },
+    {
+      "key": "link147",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link148",
+      "type": "link",
+      "label": "Destination: /services/investment"
+    },
+    {
+      "key": "link149",
+      "type": "link",
+      "label": "Destination: #i-hand-coins"
+    },
+    {
+      "key": "link150",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link151",
+      "type": "link",
+      "label": "Destination: #i-info"
+    },
+    {
+      "key": "link152",
+      "type": "link",
+      "label": "Destination: /contact/partnership"
+    },
+    {
+      "key": "link153",
+      "type": "link",
+      "label": "Destination: #i-arrow-right"
+    },
+    {
+      "key": "link154",
+      "type": "link",
+      "label": "Destination: /services"
+    }
+  ]
+}

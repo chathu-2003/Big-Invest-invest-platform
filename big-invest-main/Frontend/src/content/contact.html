@@ -1,0 +1,128 @@
+<div class="view" data-view="contact" data-title="Contact — BIG INVEST" hidden>
+
+  <section class="page-hero on-dark" aria-labelledby="contact-title">
+    <div class="page-hero-glow" aria-hidden="true"></div>
+    <div class="wrap page-hero-inner">
+      <div class="page-hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep" aria-hidden="true">/</span><span aria-current="page">Contact</span></nav>
+        <span class="eyebrow">Contact Us</span>
+        <h1 id="contact-title" class="h1" tabindex="-1">Let's talk about your next market</h1>
+        <p class="lead">Whether you're sourcing, selling, shipping or investing, tell us what you need and the right person will get back to you.</p>
+      </div>
+    </div>
+    <div class="page-hero-stripe" aria-hidden="true"></div>
+    <div class="page-hero-media"><img data-img="plane" alt="Cargo aircraft in a golden morning sky" width="640" height="320"></div>
+  </section>
+
+  <section class="section bg-soft" aria-labelledby="contact-form-title">
+    <div class="wrap contact-grid">
+      <div class="form-card" id="enquiry">
+        <div data-render="contact-form-area">
+          <form novalidate data-form="contact" aria-labelledby="contact-form-title">
+            <div class="stack gap-12">
+              <span class="eyebrow">Business Enquiry</span>
+              <h2 id="contact-form-title" class="h2" style="font-size:clamp(26px,2.2vw,34px)">Send us a message</h2>
+              <p class="small">Fields marked <span class="req">*</span> are required.</p>
+            </div>
+            <div id="form-summary" class="mt-16" aria-live="assertive"></div>
+            <div class="form-grid mt-24">
+              <div class="field">
+                <label class="label" for="f-name">Full name <span class="req" aria-hidden="true">*</span></label>
+                <input class="input" id="f-name" name="name" type="text" autocomplete="name" aria-required="true" aria-describedby="e-name">
+                <span class="err" id="e-name" hidden></span>
+              </div>
+              <div class="field">
+                <label class="label" for="f-email">Business email <span class="req" aria-hidden="true">*</span></label>
+                <input class="input" id="f-email" name="email" type="email" autocomplete="email" aria-required="true" aria-describedby="e-email">
+                <span class="err" id="e-email" hidden></span>
+              </div>
+              <div class="field">
+                <label class="label" for="f-phone">Phone <span class="hint">(optional)</span></label>
+                <input class="input" id="f-phone" name="phone" type="tel" autocomplete="tel" placeholder="+94" aria-describedby="e-phone">
+                <span class="err" id="e-phone" hidden></span>
+              </div>
+              <div class="field">
+                <label class="label" for="f-company">Company <span class="req" aria-hidden="true">*</span></label>
+                <input class="input" id="f-company" name="company" type="text" autocomplete="organization" aria-required="true" aria-describedby="e-company">
+                <span class="err" id="e-company" hidden></span>
+              </div>
+              <div class="field span-2">
+                <label class="label" for="f-type">Enquiry type <span class="req" aria-hidden="true">*</span></label>
+                <div class="select-wrap">
+                  <select class="input" id="f-type" name="type" aria-required="true" aria-describedby="e-type">
+                    <option value="">Select an enquiry type</option>
+                    <option value="general">General business enquiry</option>
+                    <option value="partnership">Partnership enquiry</option>
+                    <option value="services">Services enquiry</option>
+                    <option value="import-export">Import &amp; export assistance</option>
+                    <option value="sourcing">International sourcing</option>
+                    <option value="logistics">Logistics &amp; supply chain</option>
+                    <option value="investment">Investment opportunities</option>
+                    <option value="industry">Industry-specific enquiry</option>
+                    <option value="other">Other</option>
+                  </select>
+                  <svg class="i" aria-hidden="true"><use href="#i-chevron-down"/></svg>
+                </div>
+                <span class="err" id="e-type" hidden></span>
+              </div>
+              <div class="field span-2">
+                <label class="label" for="f-message">Message <span class="req" aria-hidden="true">*</span></label>
+                <textarea class="input" id="f-message" name="message" rows="6" aria-required="true" aria-describedby="e-message m-count" placeholder="Tell us about your products, markets, timelines or questions"></textarea>
+                <div class="row" style="justify-content:space-between;gap:12px">
+                  <span class="err" id="e-message" hidden></span>
+                  <span class="hint" id="m-count" style="margin-left:auto">0 / 1000</span>
+                </div>
+              </div>
+              <div class="field span-2">
+                <label class="check"><input id="f-consent" name="consent" type="checkbox" aria-describedby="e-consent"> I agree that BIG INVEST may use these details to respond to my enquiry. <span class="req" aria-hidden="true">*</span></label>
+                <span class="err" id="e-consent" hidden></span>
+              </div>
+            </div>
+            <div class="btn-row mt-24" style="justify-content:space-between">
+              <p class="small" style="max-width:420px"><svg class="i i-sm" aria-hidden="true" style="display:inline-block;vertical-align:-3px;margin-right:6px"><use href="#i-info"/></svg>Frontend prototype: messages are validated in your browser but not sent or stored.</p>
+              <button class="btn btn-primary" type="submit">Send Enquiry<svg class="i" aria-hidden="true"><use href="#i-send"/></svg></button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <aside class="stack gap-20" aria-label="Contact details">
+        <div class="side-card" style="padding:8px 26px">
+          <div class="info-item"><span class="badge badge-sm"><svg class="i" aria-hidden="true"><use href="#i-phone"/></svg></span><div><p class="info-label">Phone</p><p class="info-value"><span class="ph">Phone number — TBC</span></p></div></div>
+          <div class="info-item"><span class="badge badge-sm"><svg class="i" aria-hidden="true"><use href="#i-mail"/></svg></span><div><p class="info-label">Email</p><p class="info-value"><span class="ph">Email address — TBC</span></p></div></div>
+          <div class="info-item"><span class="badge badge-sm"><svg class="i" aria-hidden="true"><use href="#i-map-pin"/></svg></span><div><p class="info-label">Office</p><p class="info-value"><span class="ph">Office address</span><br>Colombo, Sri Lanka</p></div></div>
+          <div class="info-item"><span class="badge badge-sm"><svg class="i" aria-hidden="true"><use href="#i-clock"/></svg></span><div><p class="info-label">Business hours</p><p class="info-value"><span class="ph">Hours — TBC</span></p></div></div>
+        </div>
+        <div class="partner-card on-yellow">
+          <span class="badge badge-navy"><svg class="i" aria-hidden="true"><use href="#i-handshake"/></svg></span>
+          <h2 class="h3">Partnership enquiries</h2>
+          <p class="small">Manufacturers, distributors, logistics providers and investors interested in working with BIG INVEST.</p>
+          <div><button class="btn btn-navy btn-sm" type="button" data-action="preset-partnership">Start a partnership enquiry<svg class="i" aria-hidden="true"><use href="#i-arrow-right"/></svg></button></div>
+        </div>
+        <div class="side-card stack gap-12">
+          <h2 class="h4">Follow BIG INVEST</h2>
+          <div class="socials" data-render="socials"></div>
+          <p class="small social-note" role="status" aria-live="polite"></p>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section-sm" aria-labelledby="contact-map-title">
+    <div class="wrap">
+      <div class="map-ph">
+        <div class="map-box" aria-hidden="true">
+          <img data-img="mapLight" alt="" width="1240" height="560">
+          <span class="pin" style="left:72.02%;top:66.43%"><svg class="i"><use href="#i-map-pin"/></svg></span>
+        </div>
+        <div class="ph-card">
+          <span class="eyebrow">Our Office</span>
+          <h2 id="contact-map-title" class="h3">Colombo, Sri Lanka</h2>
+          <p class="small">An interactive map will be embedded here once the office address is confirmed.</p>
+          <span class="tbc"><svg class="i" aria-hidden="true"><use href="#i-info"/></svg>Map placeholder</span>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+

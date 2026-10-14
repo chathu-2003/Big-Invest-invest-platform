@@ -1,0 +1,19 @@
+export default {
+  "hero": "/images/reference/hero.jpg",
+  "ship": "/images/reference/ship.jpg",
+  "cranes": "/images/reference/cranes.jpg",
+  "plane": "/images/reference/plane.jpg",
+  "skyline": "/images/reference/skyline.jpg",
+  "dock": "/images/reference/dock.jpg",
+  "sunset": "/images/reference/sunset.jpg",
+  "pharma": "/images/reference/pharma.jpg",
+  "medical": "/images/reference/medical.jpg",
+  "cosmetics": "/images/reference/cosmetics.jpg",
+  "apparel": "/images/reference/apparel.jpg",
+  "commodities": "/images/reference/commodities.jpg",
+  "industrial": "/images/reference/industrial.jpg",
+  "coast": "/images/reference/coast.jpg",
+  "mapLight": "/images/reference/mapLight.svg",
+  "mapDark": "/images/reference/mapDark.svg",
+  "mapSolid": "/images/reference/mapSolid.svg"
+};

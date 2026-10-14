@@ -1,0 +1,1557 @@
+[
+  {
+    "kind": "categories",
+    "slug": "global-trade",
+    "title": "Global Trade",
+    "summary": "",
+    "description": "",
+    "image": null,
+    "icon": "globe",
+    "display_order": 0,
+    "status": "published",
+    "payload": {},
+    "category_slug": null
+  },
+  {
+    "kind": "categories",
+    "slug": "logistics",
+    "title": "Logistics",
+    "summary": "",
+    "description": "",
+    "image": null,
+    "icon": "globe",
+    "display_order": 1,
+    "status": "published",
+    "payload": {},
+    "category_slug": null
+  },
+  {
+    "kind": "categories",
+    "slug": "market-insights",
+    "title": "Market Insights",
+    "summary": "",
+    "description": "",
+    "image": null,
+    "icon": "globe",
+    "display_order": 2,
+    "status": "published",
+    "payload": {},
+    "category_slug": null
+  },
+  {
+    "kind": "categories",
+    "slug": "business-growth",
+    "title": "Business Growth",
+    "summary": "",
+    "description": "",
+    "image": null,
+    "icon": "globe",
+    "display_order": 3,
+    "status": "published",
+    "payload": {},
+    "category_slug": null
+  },
+  {
+    "kind": "categories",
+    "slug": "investment",
+    "title": "Investment",
+    "summary": "",
+    "description": "",
+    "image": null,
+    "icon": "globe",
+    "display_order": 4,
+    "status": "published",
+    "payload": {},
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "global-trade",
+    "title": "Global Trade Solutions",
+    "summary": "End-to-end support for buying and selling across borders — from first enquiry to final delivery.",
+    "description": "Cross-border trade involves many moving parts: finding the right counterpart, agreeing terms, preparing documents and moving goods safely. BIG INVEST brings these steps together so clients can focus on their business while we coordinate the trade.",
+    "image": "/images/reference/ship.jpg",
+    "icon": "globe",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "type": "general",
+      "points": [
+        "One coordinated point of contact",
+        "Market, product and partner fit",
+        "Clear, managed timelines"
+      ],
+      "included": [
+        "Opportunity and counterpart identification",
+        "Commercial terms and quotation support",
+        "Order and shipment coordination",
+        "Documentation guidance",
+        "Supplier and buyer communication",
+        "Post-delivery follow-up"
+      ],
+      "outcomes": [
+        [
+          "Less complexity",
+          "One team coordinating every stage of the trade."
+        ],
+        [
+          "Better decisions",
+          "Options compared on cost, timing and risk."
+        ],
+        [
+          "Full visibility",
+          "Regular updates from enquiry to delivery."
+        ],
+        [
+          "Long-term value",
+          "Relationships built for repeat business."
+        ]
+      ],
+      "nav_description": "End-to-end support for cross-border trade"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "import-export",
+    "title": "Import & Export Assistance",
+    "summary": "Practical help with documentation, coordination and the steps that move goods in and out of Sri Lanka.",
+    "description": "Whether you are shipping a first consignment or scaling an established trade lane, we help you prepare, coordinate and follow through — working with licensed customs brokers and freight forwarders where required.",
+    "image": "/images/reference/dock.jpg",
+    "icon": "container",
+    "display_order": 1,
+    "status": "published",
+    "payload": {
+      "type": "import-export",
+      "points": [
+        "Documentation checklists",
+        "Shipment coordination",
+        "Liaison with brokers and forwarders"
+      ],
+      "included": [
+        "Import and export readiness review",
+        "Document preparation guidance",
+        "Coordination with licensed customs brokers",
+        "Freight forwarder liaison",
+        "Shipment tracking and updates",
+        "Issue resolution support"
+      ],
+      "outcomes": [
+        [
+          "Fewer delays",
+          "Documents and responsibilities prepared in advance."
+        ],
+        [
+          "Clear roles",
+          "Everyone knows who does what, and when."
+        ],
+        [
+          "Confidence",
+          "Guidance for first-time importers and exporters."
+        ],
+        [
+          "Repeatable process",
+          "Checklists you can reuse for every shipment."
+        ]
+      ],
+      "nav_description": "Documentation and shipment coordination"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "logistics",
+    "title": "Logistics & Supply Chain Solutions",
+    "summary": "Coordinated freight by sea, air and land, with supply chains designed for reliability.",
+    "description": "We help clients choose the right mode and route for each shipment, coordinate with logistics partners and strengthen supply chains so goods arrive when and where they are needed.",
+    "image": "/images/reference/cranes.jpg",
+    "icon": "truck",
+    "display_order": 2,
+    "status": "published",
+    "payload": {
+      "type": "logistics",
+      "points": [
+        "Sea, air and land options",
+        "Route and mode comparison",
+        "Supply chain reviews"
+      ],
+      "included": [
+        "Mode and route planning",
+        "Freight partner coordination",
+        "Consolidation options",
+        "Warehousing and distribution coordination",
+        "Supply chain risk review",
+        "Delivery scheduling"
+      ],
+      "outcomes": [
+        [
+          "Predictable delivery",
+          "Realistic schedules agreed up front."
+        ],
+        [
+          "Cost-aware choices",
+          "Trade-offs between speed and cost made visible."
+        ],
+        [
+          "Resilience",
+          "Alternatives identified before they are needed."
+        ],
+        [
+          "Visibility",
+          "One point of contact for shipment updates."
+        ]
+      ],
+      "nav_description": "Freight coordination by sea, air and land"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "sourcing",
+    "title": "International Sourcing",
+    "summary": "Finding, assessing and managing suppliers that match your quality, cost and volume needs.",
+    "description": "Good sourcing starts with a clear brief. We turn your requirements into a structured search, shortlist suitable suppliers, coordinate samples and support you through negotiation and first orders.",
+    "image": "/images/reference/commodities.jpg",
+    "icon": "search-check",
+    "display_order": 3,
+    "status": "published",
+    "payload": {
+      "type": "sourcing",
+      "points": [
+        "Supplier search and shortlisting",
+        "Samples and quality checks",
+        "Negotiation support"
+      ],
+      "included": [
+        "Requirement and specification brief",
+        "Supplier search and shortlisting",
+        "Sample coordination",
+        "Quality inspection arrangements",
+        "Price and terms negotiation support",
+        "First-order supervision"
+      ],
+      "outcomes": [
+        [
+          "Better-matched suppliers",
+          "Assessed against your agreed criteria."
+        ],
+        [
+          "Reduced risk",
+          "Samples and checks before volume orders."
+        ],
+        [
+          "Time saved",
+          "We run the search; you make the decisions."
+        ],
+        [
+          "Scalable supply",
+          "Suppliers able to grow with you."
+        ]
+      ],
+      "nav_description": "Finding and vetting the right suppliers"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "consulting",
+    "title": "Business Consulting",
+    "summary": "Practical, commercially grounded advice for businesses growing across borders.",
+    "description": "Our consulting is hands-on and focused on decisions. We help leadership teams assess options, plan international growth and put the right structures and partners in place.",
+    "image": "/images/reference/skyline.jpg",
+    "icon": "briefcase",
+    "display_order": 4,
+    "status": "published",
+    "payload": {
+      "type": "services",
+      "points": [
+        "Growth and export planning",
+        "Operating model advice",
+        "Partner and channel strategy"
+      ],
+      "included": [
+        "Business and market assessment",
+        "International growth planning",
+        "Channel and partner strategy",
+        "Pricing and positioning review",
+        "Process and operating model advice",
+        "Implementation support"
+      ],
+      "outcomes": [
+        [
+          "Clear priorities",
+          "Focus on the opportunities that matter most."
+        ],
+        [
+          "Informed decisions",
+          "Options assessed with evidence."
+        ],
+        [
+          "Practical roadmaps",
+          "Plans your team can act on."
+        ],
+        [
+          "Accountability",
+          "Progress reviewed against agreed milestones."
+        ]
+      ],
+      "nav_description": "Practical advice for growing across borders"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "investment",
+    "title": "Investment Opportunities",
+    "summary": "Connecting investors and businesses with credible opportunities and the information to assess them.",
+    "description": "We help investors and businesses identify opportunities that fit their goals, and coordinate the introductions, information and advisers needed to assess them properly. BIG INVEST does not provide regulated financial advice; licensed professionals are engaged where required.",
+    "image": "/images/reference/sunset.jpg",
+    "icon": "hand-coins",
+    "display_order": 5,
+    "status": "published",
+    "payload": {
+      "type": "investment",
+      "points": [
+        "Opportunity identification",
+        "Introductions to counterparties",
+        "Due-diligence coordination"
+      ],
+      "included": [
+        "Opportunity screening",
+        "Investor and partner introductions",
+        "Information pack coordination",
+        "Due-diligence coordination with advisers",
+        "Site visits and meetings",
+        "Post-investment liaison"
+      ],
+      "outcomes": [
+        [
+          "Credible pipeline",
+          "Opportunities screened against your criteria."
+        ],
+        [
+          "Informed assessment",
+          "The right information and advisers involved."
+        ],
+        [
+          "Trusted introductions",
+          "Counterparties introduced with context."
+        ],
+        [
+          "Aligned partners",
+          "Expectations agreed before commitments."
+        ]
+      ],
+      "nav_description": "Connecting capital with credible ventures"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "partnerships",
+    "title": "Strategic Partnerships",
+    "summary": "Introductions to aligned partners — distributors, manufacturers, agents and joint-venture partners.",
+    "description": "The right partner can open a market faster than any campaign. We define what you need, identify aligned organisations and support the conversations that turn introductions into working partnerships.",
+    "image": "/images/reference/plane.jpg",
+    "icon": "handshake",
+    "display_order": 6,
+    "status": "published",
+    "payload": {
+      "type": "partnership",
+      "points": [
+        "Partner profiling",
+        "Qualified introductions",
+        "Partnership structuring support"
+      ],
+      "included": [
+        "Partner profile definition",
+        "Partner search and qualification",
+        "Introductions and meeting support",
+        "Partnership terms support",
+        "Onboarding coordination",
+        "Relationship reviews"
+      ],
+      "outcomes": [
+        [
+          "Faster market access",
+          "Partners who already know the market."
+        ],
+        [
+          "Shared risk",
+          "Responsibilities agreed and balanced."
+        ],
+        [
+          "Local knowledge",
+          "Insight you cannot get from a desk."
+        ],
+        [
+          "Durable relationships",
+          "Structured for the long term."
+        ]
+      ],
+      "nav_description": "Introductions to aligned global partners"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "services",
+    "slug": "market-entry",
+    "title": "Market Entry & Business Development",
+    "summary": "Plans and on-the-ground coordination to launch products and services in new markets.",
+    "description": "Entering a new market takes research, the right partners and careful execution. We help you assess demand, plan your entry and coordinate the practical steps of launching and growing.",
+    "image": "/images/reference/coast.jpg",
+    "icon": "rocket",
+    "display_order": 7,
+    "status": "published",
+    "payload": {
+      "imgPos": "50% 35%",
+      "type": "services",
+      "points": [
+        "Market assessment",
+        "Go-to-market planning",
+        "Launch coordination"
+      ],
+      "included": [
+        "Market and competitor assessment",
+        "Entry route options",
+        "Regulatory pathway mapping with local advisers",
+        "Go-to-market planning",
+        "Launch coordination",
+        "Business development support"
+      ],
+      "outcomes": [
+        [
+          "Lower entry risk",
+          "Decisions grounded in market evidence."
+        ],
+        [
+          "Faster launch",
+          "Partners and plans ready before day one."
+        ],
+        [
+          "Local partnerships",
+          "Relationships that support growth."
+        ],
+        [
+          "Measured growth",
+          "Milestones agreed and tracked."
+        ]
+      ],
+      "nav_description": "Plans and on-ground support for new markets"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "pharmaceuticals",
+    "title": "Pharmaceuticals",
+    "summary": "Pharmaceuticals",
+    "description": "Pharmaceutical trade depends on reliable partners, careful handling and full regulatory compliance in every market. BIG INVEST can support sourcing, partner identification and logistics coordination, working with licensed importers, distributors and regulatory specialists.",
+    "image": "/images/reference/pharma.jpg",
+    "icon": "pill",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "tagline": "Better medicines. Healthier lives.",
+      "group": "healthcare",
+      "opps": [
+        [
+          "Generic and OTC sourcing",
+          "Identifying manufacturers that meet quality and documentation requirements."
+        ],
+        [
+          "Distribution partnerships",
+          "Connecting manufacturers with licensed distributors."
+        ],
+        [
+          "Temperature-aware logistics",
+          "Coordinating partners able to handle sensitive shipments."
+        ],
+        [
+          "Market entry support",
+          "Mapping registration pathways with local regulatory advisers."
+        ]
+      ],
+      "services": [
+        "sourcing",
+        "partnerships",
+        "logistics",
+        "market-entry"
+      ],
+      "note": "Regulatory approvals, product registrations and licences are confirmed per market and per engagement.",
+      "short": "Pharmaceuticals"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "medical-equipment",
+    "title": "Medical Equipment",
+    "summary": "Medical Equipment",
+    "description": "Hospitals, clinics and distributors need dependable equipment and suppliers who stand behind it. We support sourcing, supplier assessment and delivery coordination for medical devices and consumables.",
+    "image": "/images/reference/medical.jpg",
+    "icon": "stethoscope",
+    "display_order": 1,
+    "status": "published",
+    "payload": {
+      "tagline": "Advanced technology. Better care.",
+      "group": "healthcare",
+      "opps": [
+        [
+          "Equipment sourcing",
+          "Diagnostic, monitoring and clinical equipment from assessed suppliers."
+        ],
+        [
+          "Consumables supply",
+          "Reliable, repeat supply of medical consumables."
+        ],
+        [
+          "After-sales partners",
+          "Identifying service and maintenance partners."
+        ],
+        [
+          "Tender preparation support",
+          "Coordinating supplier information for procurement processes."
+        ]
+      ],
+      "services": [
+        "sourcing",
+        "import-export",
+        "logistics",
+        "partnerships"
+      ],
+      "note": "Device registrations and certifications are confirmed per product and market.",
+      "short": "Medical Equipment"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "cosmetics",
+    "title": "Cosmetics & Personal Care",
+    "summary": "Cosmetics & Personal Care",
+    "description": "Quality beauty and personal care products travel well across borders. We help brands and distributors source products, find market partners and coordinate supply.",
+    "image": "/images/reference/cosmetics.jpg",
+    "icon": "sparkles",
+    "display_order": 2,
+    "status": "published",
+    "payload": {
+      "tagline": "Beauty and wellness, worldwide.",
+      "group": "consumer",
+      "opps": [
+        [
+          "Private-label sourcing",
+          "Manufacturers for skincare, haircare and personal care lines."
+        ],
+        [
+          "Brand distribution",
+          "Introductions to distributors and retail partners."
+        ],
+        [
+          "Botanical products",
+          "Sri Lankan-origin ingredients and natural products for export."
+        ],
+        [
+          "Packaging partners",
+          "Suppliers for bottles, jars, labels and secondary packaging."
+        ]
+      ],
+      "services": [
+        "sourcing",
+        "partnerships",
+        "market-entry",
+        "import-export"
+      ],
+      "note": "Product labelling and ingredient requirements differ by market and are confirmed per engagement.",
+      "short": "Cosmetics & Personal Care"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "apparel",
+    "title": "Apparel & Textiles",
+    "summary": "Apparel & Textiles",
+    "description": "Sri Lanka is internationally known for apparel manufacturing. We help buyers and producers connect, source fabrics and trims, and coordinate production and shipment.",
+    "image": "/images/reference/apparel.jpg",
+    "icon": "shirt",
+    "display_order": 3,
+    "status": "published",
+    "payload": {
+      "tagline": "Style for a brighter future.",
+      "group": "consumer",
+      "opps": [
+        [
+          "Manufacturing partners",
+          "Introductions to garment producers matched to your category."
+        ],
+        [
+          "Fabric and trims sourcing",
+          "Materials sourced to specification."
+        ],
+        [
+          "Buyer introductions",
+          "Connecting producers with brands and retailers abroad."
+        ],
+        [
+          "Shipment coordination",
+          "Sea and air freight for seasonal and replenishment orders."
+        ]
+      ],
+      "services": [
+        "sourcing",
+        "partnerships",
+        "logistics",
+        "global-trade"
+      ],
+      "note": "Compliance and certification requirements are confirmed with each buyer.",
+      "short": "Apparel & Textiles"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "commodities",
+    "title": "Commodities & Agricultural Products",
+    "summary": "Commodities & Agriculture",
+    "description": "From tea and spices to grains and other agricultural products, commodities trade rewards consistency, quality and trusted counterparties. We support sourcing, buyer introductions and shipment coordination.",
+    "image": "/images/reference/commodities.jpg",
+    "icon": "leaf",
+    "display_order": 4,
+    "status": "published",
+    "payload": {
+      "tagline": "Essential goods. Global reach.",
+      "group": "commodities",
+      "opps": [
+        [
+          "Sri Lankan produce for export",
+          "Tea, spices, coconut-based and other agricultural products."
+        ],
+        [
+          "Bulk sourcing",
+          "Agricultural and food commodities sourced for Sri Lankan buyers."
+        ],
+        [
+          "Quality and inspection",
+          "Coordinating independent inspection and grading."
+        ],
+        [
+          "Buyer and offtake partners",
+          "Introductions to importers and processors."
+        ]
+      ],
+      "services": [
+        "global-trade",
+        "sourcing",
+        "logistics",
+        "import-export"
+      ],
+      "note": "Phytosanitary and food-safety requirements are confirmed per product and destination.",
+      "short": "Commodities & Agriculture"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "industrial",
+    "title": "Industrial Solutions",
+    "summary": "Industrial Solutions",
+    "description": "Industrial clients need equipment, materials and parts that fit their specifications and timelines. We help source industrial products, coordinate suppliers and manage delivery.",
+    "image": "/images/reference/industrial.jpg",
+    "icon": "factory",
+    "display_order": 5,
+    "status": "published",
+    "payload": {
+      "tagline": "Powering progress. Together.",
+      "group": "commodities",
+      "opps": [
+        [
+          "Machinery and equipment",
+          "Production and processing equipment from assessed suppliers."
+        ],
+        [
+          "Raw materials and components",
+          "Inputs sourced to specification and volume."
+        ],
+        [
+          "Project supply coordination",
+          "Multi-supplier deliveries scheduled around your project."
+        ],
+        [
+          "Spare parts and maintenance",
+          "Reliable supply to keep operations running."
+        ]
+      ],
+      "services": [
+        "sourcing",
+        "logistics",
+        "import-export",
+        "consulting"
+      ],
+      "note": "Technical specifications and standards are confirmed with the client and supplier.",
+      "short": "Industrial Solutions"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "industries",
+    "slug": "additional",
+    "title": "Additional Trade Categories",
+    "summary": "Additional Categories",
+    "description": "Our network is not limited to the sectors above. If you are looking to buy, sell or invest in another product category, tell us what you need and we will assess how we can help.",
+    "image": "/images/reference/mapDark.svg",
+    "icon": "boxes",
+    "display_order": 6,
+    "status": "published",
+    "payload": {
+      "tagline": "Other products on request.",
+      "plain": true,
+      "group": "other",
+      "opps": [
+        [
+          "Consumer goods",
+          "Household, lifestyle and general merchandise."
+        ],
+        [
+          "Food and beverage",
+          "Packaged foods, ingredients and beverages."
+        ],
+        [
+          "Building materials",
+          "Materials and fittings for construction projects."
+        ],
+        [
+          "Technology and electronics",
+          "Components, devices and accessories."
+        ]
+      ],
+      "services": [
+        "global-trade",
+        "sourcing",
+        "consulting",
+        "market-entry"
+      ],
+      "note": "Example categories only — subject to confirmation by BIG INVEST.",
+      "short": "Additional Categories"
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "insights",
+    "slug": "five-questions-new-market",
+    "title": "Five questions to answer before entering a new export market",
+    "summary": "Expanding into a new country is one of the most rewarding moves a growing business can make — and one of the easiest to get wrong. Start with these five questions.",
+    "description": "Expanding into a new country is one of the most rewarding moves a growing business can make — and one of the easiest to get wrong. Before committing budget, it pays to answer five simple questions honestly.\n\n## 1. Is there real demand for what we sell?\n\nLook beyond headline market size. Speak to potential buyers, distributors and importers, and test whether your product solves a problem they recognise, at a price they will pay.\n\n## 2. What will it take to comply?\n\nProduct standards, labelling, registrations and import rules vary by market and by product. Map them early with qualified local advisers so there are no surprises at the border.\n\n## 3. Who will we partner with?\n\nMost successful market entries rely on a local partner — a distributor, agent or joint-venture partner who understands the market. Define what a good partner looks like before you start searching.\n\n> The right partner can open a market faster than any campaign.\n\n## 4. Can our supply chain deliver?\n\nConsider lead times, shipping modes, landed costs and how you will handle returns or after-sales service. A plan that works for one container a quarter may not work for one a week.\n\n## 5. How will we measure success?\n\nAgree clear milestones — first orders, repeat orders, margin targets — and a point at which you will review, adjust or step back.\n\nAnswering these questions does not remove risk, but it turns a leap into a series of informed steps.",
+    "image": "/images/reference/skyline.jpg",
+    "icon": "globe",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "read": 6,
+      "body": [
+        [
+          "p",
+          "Expanding into a new country is one of the most rewarding moves a growing business can make — and one of the easiest to get wrong. Before committing budget, it pays to answer five simple questions honestly."
+        ],
+        [
+          "h",
+          "1. Is there real demand for what we sell?"
+        ],
+        [
+          "p",
+          "Look beyond headline market size. Speak to potential buyers, distributors and importers, and test whether your product solves a problem they recognise, at a price they will pay."
+        ],
+        [
+          "h",
+          "2. What will it take to comply?"
+        ],
+        [
+          "p",
+          "Product standards, labelling, registrations and import rules vary by market and by product. Map them early with qualified local advisers so there are no surprises at the border."
+        ],
+        [
+          "h",
+          "3. Who will we partner with?"
+        ],
+        [
+          "p",
+          "Most successful market entries rely on a local partner — a distributor, agent or joint-venture partner who understands the market. Define what a good partner looks like before you start searching."
+        ],
+        [
+          "q",
+          "The right partner can open a market faster than any campaign."
+        ],
+        [
+          "h",
+          "4. Can our supply chain deliver?"
+        ],
+        [
+          "p",
+          "Consider lead times, shipping modes, landed costs and how you will handle returns or after-sales service. A plan that works for one container a quarter may not work for one a week."
+        ],
+        [
+          "h",
+          "5. How will we measure success?"
+        ],
+        [
+          "p",
+          "Agree clear milestones — first orders, repeat orders, margin targets — and a point at which you will review, adjust or step back."
+        ],
+        [
+          "p",
+          "Answering these questions does not remove risk, but it turns a leap into a series of informed steps."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "market-insights"
+  },
+  {
+    "kind": "insights",
+    "slug": "incoterms-plain-language",
+    "title": "Incoterms in plain language: who pays, and who is responsible",
+    "summary": "Incoterms® rules define how costs and risks are shared between buyer and seller. A quick guide to four of the most common.",
+    "description": "Incoterms® rules, published by the International Chamber of Commerce, define how costs and risks are shared between buyer and seller in international trade. Choosing the right one up front avoids disputes later.\n\n## Why they matter\n\nAn Incoterm tells both parties who arranges transport, who pays for it and at which point risk passes from seller to buyer. It does not cover payment terms or transfer of ownership — those belong elsewhere in your contract.\n\n## Four terms you will see often\n\n- EXW (Ex Works) — the buyer takes on almost all costs and risks from the seller’s premises.\n- FOB (Free On Board) — used for sea freight; risk passes once the goods are on board the vessel at the port of shipment.\n- CIF (Cost, Insurance and Freight) — the seller pays freight and minimum insurance to the destination port, but risk passes when the goods are loaded.\n- DAP (Delivered at Place) — the seller delivers to a named place, ready for unloading; the buyer handles import clearance.\n\nAlways state the Incoterms edition and the exact named place in your contract, and take professional advice for complex shipments.",
+    "image": "/images/reference/dock.jpg",
+    "icon": "globe",
+    "display_order": 1,
+    "status": "published",
+    "payload": {
+      "read": 5,
+      "body": [
+        [
+          "p",
+          "Incoterms® rules, published by the International Chamber of Commerce, define how costs and risks are shared between buyer and seller in international trade. Choosing the right one up front avoids disputes later."
+        ],
+        [
+          "h",
+          "Why they matter"
+        ],
+        [
+          "p",
+          "An Incoterm tells both parties who arranges transport, who pays for it and at which point risk passes from seller to buyer. It does not cover payment terms or transfer of ownership — those belong elsewhere in your contract."
+        ],
+        [
+          "h",
+          "Four terms you will see often"
+        ],
+        [
+          "ul",
+          [
+            "EXW (Ex Works) — the buyer takes on almost all costs and risks from the seller’s premises.",
+            "FOB (Free On Board) — used for sea freight; risk passes once the goods are on board the vessel at the port of shipment.",
+            "CIF (Cost, Insurance and Freight) — the seller pays freight and minimum insurance to the destination port, but risk passes when the goods are loaded.",
+            "DAP (Delivered at Place) — the seller delivers to a named place, ready for unloading; the buyer handles import clearance."
+          ]
+        ],
+        [
+          "p",
+          "Always state the Incoterms edition and the exact named place in your contract, and take professional advice for complex shipments."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "global-trade"
+  },
+  {
+    "kind": "insights",
+    "slug": "resilient-supply-chain",
+    "title": "Building a resilient supply chain: a practical checklist",
+    "summary": "Disruption is a normal part of global trade. Resilience is about being ready for it — here is where to start.",
+    "description": "Disruptions — from port congestion to sudden demand spikes — are a normal part of global trade. Resilience is not about predicting every problem; it is about being ready to respond.\n\n## A practical checklist\n\n- Map your critical suppliers and identify single points of failure.\n- Qualify at least one alternative source for key inputs.\n- Hold safety stock where lead times are long or unpredictable.\n- Agree clear communication routines with logistics partners.\n- Review routes and modes regularly, not only when something goes wrong.\n\n> Resilience is built before the disruption, not during it.\n\n## Start small\n\nYou do not need to redesign everything at once. Begin with the products that matter most to your customers and your margins, then extend the approach.",
+    "image": "/images/reference/cranes.jpg",
+    "icon": "globe",
+    "display_order": 2,
+    "status": "published",
+    "payload": {
+      "read": 5,
+      "body": [
+        [
+          "p",
+          "Disruptions — from port congestion to sudden demand spikes — are a normal part of global trade. Resilience is not about predicting every problem; it is about being ready to respond."
+        ],
+        [
+          "h",
+          "A practical checklist"
+        ],
+        [
+          "ul",
+          [
+            "Map your critical suppliers and identify single points of failure.",
+            "Qualify at least one alternative source for key inputs.",
+            "Hold safety stock where lead times are long or unpredictable.",
+            "Agree clear communication routines with logistics partners.",
+            "Review routes and modes regularly, not only when something goes wrong."
+          ]
+        ],
+        [
+          "q",
+          "Resilience is built before the disruption, not during it."
+        ],
+        [
+          "h",
+          "Start small"
+        ],
+        [
+          "p",
+          "You do not need to redesign everything at once. Begin with the products that matter most to your customers and your margins, then extend the approach."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "logistics"
+  },
+  {
+    "kind": "insights",
+    "slug": "lasting-partnerships",
+    "title": "What makes a cross-border partnership last",
+    "summary": "Most international partnerships begin with enthusiasm. The ones that last are built on clarity.",
+    "description": "Most international partnerships begin with enthusiasm. The ones that last are built on clarity — about goals, roles and what happens when things do not go to plan.\n\n## Agree what success looks like\n\nSet shared targets for the first year: volumes, markets, service levels. Revisit them together rather than measuring each other privately.\n\n## Communicate more than you think you need to\n\nTime zones, languages and business cultures all add friction. Regular, structured check-ins prevent small misunderstandings from becoming big ones.\n\n> Trust is built in small, consistent actions over time.\n\n## Share the upside — and the problems\n\nPartners who share good news and bad news early tend to solve problems faster and stay together longer.",
+    "image": "/images/reference/plane.jpg",
+    "icon": "globe",
+    "display_order": 3,
+    "status": "published",
+    "payload": {
+      "read": 4,
+      "body": [
+        [
+          "p",
+          "Most international partnerships begin with enthusiasm. The ones that last are built on clarity — about goals, roles and what happens when things do not go to plan."
+        ],
+        [
+          "h",
+          "Agree what success looks like"
+        ],
+        [
+          "p",
+          "Set shared targets for the first year: volumes, markets, service levels. Revisit them together rather than measuring each other privately."
+        ],
+        [
+          "h",
+          "Communicate more than you think you need to"
+        ],
+        [
+          "p",
+          "Time zones, languages and business cultures all add friction. Regular, structured check-ins prevent small misunderstandings from becoming big ones."
+        ],
+        [
+          "q",
+          "Trust is built in small, consistent actions over time."
+        ],
+        [
+          "h",
+          "Share the upside — and the problems"
+        ],
+        [
+          "p",
+          "Partners who share good news and bad news early tend to solve problems faster and stay together longer."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "business-growth"
+  },
+  {
+    "kind": "insights",
+    "slug": "investment-ready",
+    "title": "Preparing your business for investment conversations",
+    "summary": "Investors look for clarity: a clear opportunity, a credible team and reliable information. Here is how to prepare.",
+    "description": "Investors look for clarity: a clear opportunity, a credible team and reliable information. Preparing well shortens conversations and builds confidence.\n\n## Get your information in order\n\n- Up-to-date financial statements\n- A concise business plan with realistic assumptions\n- Clear ownership and legal documents\n- An honest view of key risks and how you manage them\n\n## Know what you are asking for\n\nBe specific about how much investment you are seeking, what it will be used for and what you are prepared to offer in return.\n\nThis article is general information, not financial or legal advice. Always consult licensed professionals before entering into an investment agreement.",
+    "image": "/images/reference/sunset.jpg",
+    "icon": "globe",
+    "display_order": 4,
+    "status": "published",
+    "payload": {
+      "read": 5,
+      "body": [
+        [
+          "p",
+          "Investors look for clarity: a clear opportunity, a credible team and reliable information. Preparing well shortens conversations and builds confidence."
+        ],
+        [
+          "h",
+          "Get your information in order"
+        ],
+        [
+          "ul",
+          [
+            "Up-to-date financial statements",
+            "A concise business plan with realistic assumptions",
+            "Clear ownership and legal documents",
+            "An honest view of key risks and how you manage them"
+          ]
+        ],
+        [
+          "h",
+          "Know what you are asking for"
+        ],
+        [
+          "p",
+          "Be specific about how much investment you are seeking, what it will be used for and what you are prepared to offer in return."
+        ],
+        [
+          "p",
+          "This article is general information, not financial or legal advice. Always consult licensed professionals before entering into an investment agreement."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "investment"
+  },
+  {
+    "kind": "insights",
+    "slug": "sea-or-air-freight",
+    "title": "Sea or air freight? Choosing the right mode for your shipment",
+    "summary": "The choice usually comes down to time, cost and the nature of the goods. Here is how to weigh them up.",
+    "description": "The choice between sea and air freight usually comes down to three things: how quickly the goods are needed, what you can afford to spend and what you are shipping.\n\n## When sea freight makes sense\n\nLarge volumes, heavy goods and shipments that are not urgent. Sea freight generally costs less per unit but takes considerably longer.\n\n## When air freight makes sense\n\nUrgent, high-value, perishable or smaller consignments. Air freight is faster but more expensive, so it is often reserved for goods where speed protects value.\n\n## Consider the whole journey\n\nDoor-to-door time includes collection, port or airport handling, customs clearance and final delivery — not just time in transit.",
+    "image": "/images/reference/ship.jpg",
+    "icon": "globe",
+    "display_order": 5,
+    "status": "published",
+    "payload": {
+      "read": 4,
+      "body": [
+        [
+          "p",
+          "The choice between sea and air freight usually comes down to three things: how quickly the goods are needed, what you can afford to spend and what you are shipping."
+        ],
+        [
+          "h",
+          "When sea freight makes sense"
+        ],
+        [
+          "p",
+          "Large volumes, heavy goods and shipments that are not urgent. Sea freight generally costs less per unit but takes considerably longer."
+        ],
+        [
+          "h",
+          "When air freight makes sense"
+        ],
+        [
+          "p",
+          "Urgent, high-value, perishable or smaller consignments. Air freight is faster but more expensive, so it is often reserved for goods where speed protects value."
+        ],
+        [
+          "h",
+          "Consider the whole journey"
+        ],
+        [
+          "p",
+          "Door-to-door time includes collection, port or airport handling, customs clearance and final delivery — not just time in transit."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "logistics"
+  },
+  {
+    "kind": "insights",
+    "slug": "first-time-importers",
+    "title": "Documentation basics for first-time importers",
+    "summary": "Paperwork is where many first shipments slow down. Knowing the common documents helps you prepare.",
+    "description": "Paperwork is where many first shipments slow down. Knowing the documents you are likely to need — and who provides them — helps everything move faster.\n\n## Common documents\n\n- Commercial invoice\n- Packing list\n- Bill of lading (sea) or air waybill (air)\n- Certificate of origin, where required\n- Product-specific permits, licences or certificates\n\nRequirements vary by product and by country. Always confirm the latest rules with a licensed customs broker before goods are shipped.",
+    "image": "/images/reference/industrial.jpg",
+    "icon": "globe",
+    "display_order": 6,
+    "status": "published",
+    "payload": {
+      "read": 4,
+      "body": [
+        [
+          "p",
+          "Paperwork is where many first shipments slow down. Knowing the documents you are likely to need — and who provides them — helps everything move faster."
+        ],
+        [
+          "h",
+          "Common documents"
+        ],
+        [
+          "ul",
+          [
+            "Commercial invoice",
+            "Packing list",
+            "Bill of lading (sea) or air waybill (air)",
+            "Certificate of origin, where required",
+            "Product-specific permits, licences or certificates"
+          ]
+        ],
+        [
+          "p",
+          "Requirements vary by product and by country. Always confirm the latest rules with a licensed customs broker before goods are shipped."
+        ]
+      ],
+      "sample": true
+    },
+    "category_slug": "global-trade"
+  },
+  {
+    "kind": "network",
+    "slug": "europe",
+    "title": "Europe",
+    "summary": "",
+    "description": "Established markets for quality consumer and food products, and a source of machinery, equipment and specialised goods.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "x": 612,
+      "y": 168,
+      "d": "M893 372 Q752 71 612 168",
+      "items": [
+        "Buyers and distributors for Sri Lankan products",
+        "Machinery and equipment sourcing",
+        "Partnership and investment introductions"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "middle-east",
+    "title": "Middle East",
+    "summary": "",
+    "description": "A key logistics and re-export region with demand across food, consumer goods and construction supply.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 1,
+    "status": "published",
+    "payload": {
+      "x": 782,
+      "y": 288,
+      "d": "M893 372 Q838 249 782 288",
+      "items": [
+        "Food and consumer goods trade",
+        "Re-export and transhipment links",
+        "Construction and industrial supply"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "east-asia",
+    "title": "East Asia",
+    "summary": "",
+    "description": "Major manufacturing base for industrial goods, electronics, packaging and raw materials.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 2,
+    "status": "published",
+    "payload": {
+      "x": 1035,
+      "y": 238,
+      "d": "M893 372 Q964 183 1035 238",
+      "items": [
+        "Industrial and electronics sourcing",
+        "Packaging and materials suppliers",
+        "Manufacturing partnerships"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "southeast-asia",
+    "title": "Southeast Asia",
+    "summary": "",
+    "description": "Close neighbours with growing consumer markets and strong regional supply chains.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 3,
+    "status": "published",
+    "payload": {
+      "x": 952,
+      "y": 378,
+      "d": "M893 372 Q922 355 952 378",
+      "items": [
+        "Regional sourcing",
+        "Consumer market access",
+        "Transhipment connections"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "oceania",
+    "title": "Australia & Oceania",
+    "summary": "",
+    "description": "Discerning consumer and specialty food markets, with partnership and investment potential.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 4,
+    "status": "published",
+    "payload": {
+      "x": 1118,
+      "y": 478,
+      "d": "M893 372 Q1006 302 1118 478",
+      "items": [
+        "Specialty food and consumer products",
+        "Distributor introductions",
+        "Investment partnerships"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "africa",
+    "title": "Africa",
+    "summary": "",
+    "description": "Fast-growing markets for consumer goods, healthcare products and agricultural inputs.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 5,
+    "status": "published",
+    "payload": {
+      "x": 712,
+      "y": 398,
+      "d": "M893 372 Q802 321 712 398",
+      "items": [
+        "Consumer and healthcare products",
+        "Agricultural inputs",
+        "Distribution partnerships"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "north-america",
+    "title": "North America",
+    "summary": "",
+    "description": "Premium consumer markets for Sri Lankan products, and a source of technology and equipment.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 6,
+    "status": "published",
+    "payload": {
+      "x": 318,
+      "y": 232,
+      "d": "M893 372 Q606 66 318 232",
+      "items": [
+        "Premium consumer and food exports",
+        "Technology and equipment sourcing",
+        "Investor introductions"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "network",
+    "slug": "south-america",
+    "title": "South America",
+    "summary": "",
+    "description": "Agricultural commodities and emerging trade relationships.",
+    "image": null,
+    "icon": "globe",
+    "display_order": 7,
+    "status": "published",
+    "payload": {
+      "x": 402,
+      "y": 452,
+      "d": "M893 372 Q648 233 402 452",
+      "items": [
+        "Agricultural commodity sourcing",
+        "New buyer relationships",
+        "Market research"
+      ],
+      "disclaimer": "Illustrative only ? markets and partners to be confirmed by BIG INVEST."
+    },
+    "category_slug": null
+  },
+  {
+    "kind": "partners",
+    "slug": "manufacturers-suppliers",
+    "title": "Manufacturers & suppliers",
+    "description": "Producers of finished goods, components and raw materials, assessed against client requirements.",
+    "icon": "factory",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "confirmed": false,
+      "website": ""
+    }
+  },
+  {
+    "kind": "partners",
+    "slug": "distributors-importers",
+    "title": "Distributors & importers",
+    "description": "Market-side partners who hold the relationships, licences and reach to sell locally.",
+    "icon": "warehouse",
+    "display_order": 1,
+    "status": "published",
+    "payload": {
+      "confirmed": false,
+      "website": ""
+    }
+  },
+  {
+    "kind": "partners",
+    "slug": "logistics-freight",
+    "title": "Logistics & freight partners",
+    "description": "Forwarders, carriers, customs brokers and warehousing providers by sea, air and land.",
+    "icon": "ship",
+    "display_order": 2,
+    "status": "published",
+    "payload": {
+      "confirmed": false,
+      "website": ""
+    }
+  },
+  {
+    "kind": "partners",
+    "slug": "advisers-providers",
+    "title": "Advisers & service providers",
+    "description": "Legal, regulatory, financial and inspection specialists engaged where an engagement needs them.",
+    "icon": "briefcase",
+    "display_order": 3,
+    "status": "published",
+    "payload": {
+      "confirmed": false,
+      "website": ""
+    }
+  },
+  {
+    "kind": "pages",
+    "slug": "home",
+    "title": "Home",
+    "icon": "file-text",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "fields": {
+        "text001": "From Sri Lanka",
+        "text002": "to the World",
+        "text003": "Global",
+        "text004": " Trade & Investment Solutions",
+        "text005": "Your Trusted Partner ",
+        "text006": "in Global Trade",
+        "text007": "We connect businesses, create opportunities and provide end-to-end trade and investment solutions across the world.",
+        "text008": "Explore Our Services",
+        "text009": "Partner With Us",
+        "text010": "Our Services",
+        "text011": "Comprehensive Solutions for a Global Tomorrow",
+        "text012": "From trade and investment to logistics and beyond, we deliver value at every step.",
+        "text013": "Global Reach",
+        "text014": "Access to international markets and opportunities.",
+        "text015": "Trusted Partnerships",
+        "text016": "Strong relationships with global networks.",
+        "text017": "Reliable Solutions",
+        "text018": "Tailored services for your business needs.",
+        "text019": "Sustainable Growth",
+        "text020": "Building long-term value for a better tomorrow.",
+        "text021": "Innovation & Expertise",
+        "text022": "Industry knowledge that drives success.",
+        "text023": "Customer Focus",
+        "text024": "Your goals, our commitment.",
+        "text025": "Our Industries",
+        "text026": "Key Industries We Serve",
+        "text027": "We operate across diverse industries, delivering high-quality products and solutions to meet global demands.",
+        "text028": "Explore All Industries",
+        "text029": "Why BIG INVEST",
+        "text030": "More Than Trade ",
+        "text031": "We Create Opportunities",
+        "text032": "With a strong global network, industry expertise and a commitment to excellence, we help our clients, partners and communities grow.",
+        "text033": "Learn More",
+        "text034": "*Figures from the homepage concept — to be verified by BIG INVEST",
+        "text035": "Global Trade. ",
+        "text036": "Local Commitment.",
+        "text037": "From Sri Lanka to global markets, we deliver value, trust and progress.",
+        "text038": "Our Global Network",
+        "image039": "/images/reference/hero.jpg",
+        "image040": "/images/reference/coast.jpg",
+        "link041": "/services",
+        "link042": "#i-arrow-right",
+        "link043": "/contact/partnership",
+        "link044": "#i-arrow-right",
+        "link045": "#i-globe",
+        "link046": "#i-handshake",
+        "link047": "#i-shield-check",
+        "link048": "#i-chart-column-increasing",
+        "link049": "#i-lightbulb",
+        "link050": "#i-users",
+        "link051": "/industries",
+        "link052": "#i-arrow-right",
+        "link053": "/about",
+        "link054": "#i-arrow-right",
+        "link055": "/global-network",
+        "link056": "#i-arrow-right"
+      }
+    }
+  },
+  {
+    "kind": "pages",
+    "slug": "about",
+    "title": "About",
+    "icon": "file-text",
+    "display_order": 0,
+    "status": "published",
+    "payload": {
+      "fields": {
+        "text001": "Home",
+        "text002": "/",
+        "text003": "About Us",
+        "text004": "About BIG INVEST",
+        "text005": "Connecting Sri Lankan business with the world",
+        "text006": "An international business solutions company linking Sri Lankan businesses with global markets, partners, products and investment opportunities.",
+        "text007": "Partner With Us",
+        "text008": "Our Services",
+        "text009": "From Sri Lanka to the World",
+        "text010": "Global Trade | Business Solutions",
+        "text011": "Who We Are",
+        "text012": "One partner for every stage of cross-border business",
+        "text013": "BIG INVEST brings trade, sourcing, logistics coordination and investment support together under one roof, so businesses can pursue international opportunities with a single, accountable partner.",
+        "text014": "We work alongside manufacturers, distributors, investors and service providers to turn opportunities into practical, well-managed outcomes — from the first conversation to long-term partnership.",
+        "text015": "Trade and investment solutions under one roof",
+        "text016": "Focus across six key industries",
+        "text017": "Rooted in Sri Lanka, working with partners worldwide",
+        "text018": "Company history, registration details and milestones — to be supplied by BIG INVEST",
+        "text019": "Vision & Mission",
+        "text020": "Where we are going, and how we get there",
+        "text021": "Proposed wording — for client approval",
+        "text022": "Our Vision",
+        "text023": "To be Sri Lanka's most trusted bridge to global trade and investment.",
+        "text024": "Our Mission",
+        "text025": "To connect businesses with the right markets, partners and products through reliable, transparent and end-to-end trade and investment solutions.",
+        "text026": "Core Objectives",
+        "text027": "What we set out to achieve for every client",
+        "text028": "01",
+        "text029": "Open doors to new markets",
+        "text030": "Help Sri Lankan businesses reach buyers and partners abroad with confidence.",
+        "text031": "02",
+        "text032": "Build lasting partnerships",
+        "text033": "Create relationships that lead to repeat trade, not one-off transactions.",
+        "text034": "03",
+        "text035": "Deliver dependable solutions",
+        "text036": "Coordinate each step carefully so commitments are met on time.",
+        "text037": "04",
+        "text038": "Grow responsibly",
+        "text039": "Pursue long-term value for clients, partners and communities.",
+        "text040": "Portrait to be supplied",
+        "text041": "Leadership Message",
+        "text042": "A word from our leadership",
+        "text043": "[Chairman's or Managing Director's message — around 100 words on BIG INVEST's purpose, approach and commitment to clients and partners — to be provided by BIG INVEST.]",
+        "text044": "[Full name]",
+        "text045": "[Chairman / Managing Director]",
+        "text046": ", BIG INVEST (Pvt) Ltd",
+        "text047": "Our Values",
+        "text048": "The principles behind every engagement",
+        "text049": "How we work matters as much as what we deliver.",
+        "text050": "Integrity",
+        "text051": "Honest advice and transparent dealings, even when the answer is not what was hoped for.",
+        "text052": "Partnership",
+        "text053": "We succeed when our clients and partners succeed — and we act that way.",
+        "text054": "Reliability",
+        "text055": "Clear commitments, carefully coordinated and consistently followed through.",
+        "text056": "Excellence",
+        "text057": "High standards in preparation, communication and delivery.",
+        "text058": "Sustainability",
+        "text059": "Decisions made with the long term — and the wider community — in mind.",
+        "text060": "Customer Focus",
+        "text061": "Your goals shape the plan; we adapt to your business, not the other way round.",
+        "text062": "One accountable team from first enquiry to final delivery",
+        "text063": "Why Choose BIG INVEST",
+        "text064": "Why businesses work with us",
+        "text065": "One accountable partner",
+        "text066": "Trade, sourcing, logistics and investment support coordinated by a single team.",
+        "text067": "Local roots, global outlook",
+        "text068": "Based in Sri Lanka and focused on international markets.",
+        "text069": "Multi-industry perspective",
+        "text070": "Coverage across healthcare, consumer, commodity and industrial sectors.",
+        "text071": "Transparent ways of working",
+        "text072": "Clear scopes, regular updates and straight answers.",
+        "text073": "Built for the long term",
+        "text074": "Relationships measured in years, not single transactions.",
+        "text075": "Global Business Capabilities",
+        "text076": "What we can coordinate on your behalf",
+        "text077": "See all services",
+        "text078": "Sourcing & procurement",
+        "text079": "Supplier search, samples, quality checks and negotiation support.",
+        "text080": "International Sourcing",
+        "text081": "Import & export coordination",
+        "text082": "Documentation guidance and shipment follow-through.",
+        "text083": "Import & Export",
+        "text084": "Logistics coordination",
+        "text085": "Mode and route planning with trusted freight partners.",
+        "text086": "Logistics & Supply Chain",
+        "text087": "Market research & entry",
+        "text088": "Demand assessment, entry routes and launch planning.",
+        "text089": "Market Entry",
+        "text090": "Partner identification",
+        "text091": "Qualified introductions to distributors, manufacturers and agents.",
+        "text092": "Strategic Partnerships",
+        "text093": "Investment facilitation",
+        "text094": "Opportunity screening, introductions and due-diligence coordination.",
+        "text095": "Investment Opportunities",
+        "text096": "Figures from the homepage concept — to be verified by BIG INVEST",
+        "text097": "Partner With Us",
+        "text098": "Let's grow across borders, together.",
+        "text099": "Tell us about your market, product or investment goal and we'll show you how we can help.",
+        "text100": "Partner With Us",
+        "text101": "Explore Services",
+        "image102": "/images/reference/skyline.jpg",
+        "image103": "/images/reference/ship.jpg",
+        "image104": "/images/reference/mapDark.svg",
+        "image105": "/images/reference/dock.jpg",
+        "link106": "/",
+        "link107": "/contact/partnership",
+        "link108": "#i-arrow-right",
+        "link109": "/services",
+        "link110": "#i-check",
+        "link111": "#i-check",
+        "link112": "#i-check",
+        "link113": "#i-info",
+        "link114": "#i-info",
+        "link115": "#i-eye",
+        "link116": "#i-target",
+        "link117": "#i-user",
+        "link118": "#i-quote",
+        "link119": "#i-scale",
+        "link120": "#i-handshake",
+        "link121": "#i-shield-check",
+        "link122": "#i-award",
+        "link123": "#i-sprout",
+        "link124": "#i-users",
+        "link125": "#i-route",
+        "link126": "#i-check",
+        "link127": "#i-check",
+        "link128": "#i-check",
+        "link129": "#i-check",
+        "link130": "#i-check",
+        "link131": "/services",
+        "link132": "#i-arrow-right",
+        "link133": "/services/sourcing",
+        "link134": "#i-search-check",
+        "link135": "#i-arrow-right",
+        "link136": "/services/import-export",
+        "link137": "#i-container",
+        "link138": "#i-arrow-right",
+        "link139": "/services/logistics",
+        "link140": "#i-truck",
+        "link141": "#i-arrow-right",
+        "link142": "/services/market-entry",
+        "link143": "#i-compass",
+        "link144": "#i-arrow-right",
+        "link145": "/services/partnerships",
+        "link146": "#i-network",
+        "link147": "#i-arrow-right",
+        "link148": "/services/investment",
+        "link149": "#i-hand-coins",
+        "link150": "#i-arrow-right",
+        "link151": "#i-info",
+        "link152": "/contact/partnership",
+        "link153": "#i-arrow-right",
+        "link154": "/services"
+      }
+    }
+  }
+]
